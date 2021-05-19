@@ -1,1 +1,1 @@
-# Software-Architecture-Styles-and-Patterns
+# Software Architecture: Styles and Patterns
